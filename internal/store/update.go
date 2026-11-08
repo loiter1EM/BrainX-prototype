@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ksi512/BrainX-prototype/internal/index"
+	"github.com/loiter1EM/BrainX-prototype/internal/index"
 )
 
 // UpdateInput 描述一次改写。空字符串表示「这一项不动」。

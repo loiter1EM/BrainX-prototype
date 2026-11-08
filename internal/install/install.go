@@ -11,7 +11,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/ksi512/BrainX-prototype/internal/scope"
+	"github.com/loiter1EM/BrainX-prototype/internal/scope"
 )
 
 type Options struct {

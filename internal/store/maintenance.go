@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ksi512/BrainX-prototype/internal/index"
+	"github.com/loiter1EM/BrainX-prototype/internal/index"
 )
 
 // ErrBusyExhausted / ErrCorrupt 是错误契约里的退出码 6 / 7 的判据。

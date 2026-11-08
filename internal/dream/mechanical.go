@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ksi512/BrainX-prototype/internal/store"
+	"github.com/loiter1EM/BrainX-prototype/internal/store"
 )
 
 // 机械层：纯规则、零模型、可定时。它只做四件事——衰减、淘汰、去重、留痕。

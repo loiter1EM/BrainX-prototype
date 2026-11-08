@@ -67,7 +67,7 @@
 
 ```sh
 # 0) 下载并编译（GitHub 页面 Code → Download ZIP 也可以）
-git clone https://github.com/ksi512/BrainX-prototype.git && cd BrainX-prototype
+git clone https://github.com/loiter1EM/BrainX-prototype.git && cd BrainX-prototype
 CGO_ENABLED=0 go build -o brainx ./cmd/brainx
 
 # 1) 初始化库（默认 ~/.brainx）
@@ -88,7 +88,7 @@ brainx status
 
 ### 预编译包方式（普通用户）
 
-从 [GitHub Releases](https://github.com/ksi512/BrainX-prototype/releases) 下载对应平台的压缩包，解压后执行。
+从 [GitHub Releases](https://github.com/loiter1EM/BrainX-prototype/releases) 下载对应平台的压缩包，解压后执行。
 
 macOS / Linux：
 

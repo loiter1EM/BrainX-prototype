@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ksi512/BrainX-prototype/internal/store"
+	"github.com/loiter1EM/BrainX-prototype/internal/store"
 )
 
 // M10 的核心验收：**单文件、零外部资源**。

@@ -8,9 +8,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ksi512/BrainX-prototype/internal/hook"
-	"github.com/ksi512/BrainX-prototype/internal/scope"
-	"github.com/ksi512/BrainX-prototype/internal/store"
+	"github.com/loiter1EM/BrainX-prototype/internal/hook"
+	"github.com/loiter1EM/BrainX-prototype/internal/scope"
+	"github.com/loiter1EM/BrainX-prototype/internal/store"
 )
 
 func newStore(t *testing.T) *store.Store {

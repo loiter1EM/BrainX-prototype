@@ -16,16 +16,16 @@ import (
 	"sync"
 	"time"
 
-	dreamplan "github.com/ksi512/BrainX-prototype/internal/dream"
-	"github.com/ksi512/BrainX-prototype/internal/hook"
-	"github.com/ksi512/BrainX-prototype/internal/index"
-	installpkg "github.com/ksi512/BrainX-prototype/internal/install"
-	"github.com/ksi512/BrainX-prototype/internal/maintain"
-	"github.com/ksi512/BrainX-prototype/internal/recall"
-	"github.com/ksi512/BrainX-prototype/internal/report"
-	scopepkg "github.com/ksi512/BrainX-prototype/internal/scope"
-	"github.com/ksi512/BrainX-prototype/internal/store"
-	"github.com/ksi512/BrainX-prototype/internal/wiki"
+	dreamplan "github.com/loiter1EM/BrainX-prototype/internal/dream"
+	"github.com/loiter1EM/BrainX-prototype/internal/hook"
+	"github.com/loiter1EM/BrainX-prototype/internal/index"
+	installpkg "github.com/loiter1EM/BrainX-prototype/internal/install"
+	"github.com/loiter1EM/BrainX-prototype/internal/maintain"
+	"github.com/loiter1EM/BrainX-prototype/internal/recall"
+	"github.com/loiter1EM/BrainX-prototype/internal/report"
+	scopepkg "github.com/loiter1EM/BrainX-prototype/internal/scope"
+	"github.com/loiter1EM/BrainX-prototype/internal/store"
+	"github.com/loiter1EM/BrainX-prototype/internal/wiki"
 )
 
 func main() {

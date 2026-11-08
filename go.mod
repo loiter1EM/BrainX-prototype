@@ -1,4 +1,4 @@
-module github.com/ksi512/BrainX-prototype
+module github.com/loiter1EM/BrainX-prototype
 
 go 1.26.0
 

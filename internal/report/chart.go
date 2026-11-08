@@ -6,7 +6,7 @@ import (
 	"math"
 	"strings"
 
-	"github.com/ksi512/BrainX-prototype/internal/store"
+	"github.com/loiter1EM/BrainX-prototype/internal/store"
 )
 
 // 图表全部在 Go 侧算好、输出内联 SVG。

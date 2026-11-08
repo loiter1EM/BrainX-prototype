@@ -11,8 +11,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ksi512/BrainX-prototype/internal/index"
-	"github.com/ksi512/BrainX-prototype/internal/store"
+	"github.com/loiter1EM/BrainX-prototype/internal/index"
+	"github.com/loiter1EM/BrainX-prototype/internal/store"
 )
 
 // Decision 是两段式的第二段输入：宿主 Agent 对每一组候选给出的判断。

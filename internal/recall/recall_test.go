@@ -4,8 +4,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ksi512/BrainX-prototype/internal/recall"
-	"github.com/ksi512/BrainX-prototype/internal/store"
+	"github.com/loiter1EM/BrainX-prototype/internal/recall"
+	"github.com/loiter1EM/BrainX-prototype/internal/store"
 )
 
 func newStore(t *testing.T) *store.Store {

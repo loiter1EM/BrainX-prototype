@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ksi512/BrainX-prototype/internal/recall"
-	"github.com/ksi512/BrainX-prototype/internal/store"
+	"github.com/loiter1EM/BrainX-prototype/internal/recall"
+	"github.com/loiter1EM/BrainX-prototype/internal/store"
 )
 
 // 千级/万级实测：M2 验收要求「万级资产 P95 < 60ms」。

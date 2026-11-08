@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ksi512/BrainX-prototype/internal/install"
+	"github.com/loiter1EM/BrainX-prototype/internal/install"
 )
 
 func TestInstallIsIdempotentAndUninstallable(t *testing.T) {

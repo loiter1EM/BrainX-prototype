@@ -6,9 +6,9 @@ import (
 	"strconv"
 	"strings"
 
-	dreamplan "github.com/ksi512/BrainX-prototype/internal/dream"
-	"github.com/ksi512/BrainX-prototype/internal/recall"
-	"github.com/ksi512/BrainX-prototype/internal/store"
+	dreamplan "github.com/loiter1EM/BrainX-prototype/internal/dream"
+	"github.com/loiter1EM/BrainX-prototype/internal/recall"
+	"github.com/loiter1EM/BrainX-prototype/internal/store"
 )
 
 // openCmd 是 `brainx open <id>`：取原件。

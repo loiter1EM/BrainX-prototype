@@ -16,7 +16,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/ksi512/BrainX-prototype/internal/index"
+	"github.com/loiter1EM/BrainX-prototype/internal/index"
 	_ "modernc.org/sqlite"
 )
 

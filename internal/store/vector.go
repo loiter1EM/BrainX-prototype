@@ -7,7 +7,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/ksi512/BrainX-prototype/internal/index"
+	"github.com/loiter1EM/BrainX-prototype/internal/index"
 )
 
 // Embedder 从配置造一个 embeddings 客户端。只在 vector.enabled 时才真的会连。

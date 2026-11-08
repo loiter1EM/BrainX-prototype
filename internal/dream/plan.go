@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ksi512/BrainX-prototype/internal/index"
-	"github.com/ksi512/BrainX-prototype/internal/store"
+	"github.com/loiter1EM/BrainX-prototype/internal/index"
+	"github.com/loiter1EM/BrainX-prototype/internal/store"
 )
 
 // Candidate 是一组候选。判断单位是「一组」，不是「一条」——

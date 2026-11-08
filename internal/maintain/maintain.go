@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	dreamplan "github.com/ksi512/BrainX-prototype/internal/dream"
-	"github.com/ksi512/BrainX-prototype/internal/store"
+	dreamplan "github.com/loiter1EM/BrainX-prototype/internal/dream"
+	"github.com/loiter1EM/BrainX-prototype/internal/store"
 )
 
 // RunQueuedCommands 是看板按钮的执行端：排队 → 下一次任意 CLI 启动时跑一次 → 删。

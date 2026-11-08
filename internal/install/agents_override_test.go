@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ksi512/BrainX-prototype/internal/install"
+	"github.com/loiter1EM/BrainX-prototype/internal/install"
 )
 
 // 约定文件的正文来自 $BRAINX_HOME/AGENTS.block.md（单一真源）。

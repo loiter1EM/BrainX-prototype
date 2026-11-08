@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ksi512/BrainX-prototype/internal/store"
-	"github.com/ksi512/BrainX-prototype/internal/wiki"
+	"github.com/loiter1EM/BrainX-prototype/internal/store"
+	"github.com/loiter1EM/BrainX-prototype/internal/wiki"
 )
 
 func newStore(t *testing.T) *store.Store {

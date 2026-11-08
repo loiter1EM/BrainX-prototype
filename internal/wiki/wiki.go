@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ksi512/BrainX-prototype/internal/store"
+	"github.com/loiter1EM/BrainX-prototype/internal/store"
 )
 
 const projectionBanner = "> ⚠ 这是投影，权威数据在 store.db。改这里的文件不会写回库，下次 `brainx wiki` 会被覆盖。\n"

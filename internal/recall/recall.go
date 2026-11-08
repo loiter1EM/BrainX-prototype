@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ksi512/BrainX-prototype/internal/index"
-	"github.com/ksi512/BrainX-prototype/internal/store"
+	"github.com/loiter1EM/BrainX-prototype/internal/index"
+	"github.com/loiter1EM/BrainX-prototype/internal/store"
 )
 
 // Result 是一条召回结果。Sources 记录它从哪几路进来——

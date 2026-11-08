@@ -3,8 +3,8 @@ package store_test
 import (
 	"testing"
 
-	"github.com/ksi512/BrainX-prototype/internal/recall"
-	"github.com/ksi512/BrainX-prototype/internal/store"
+	"github.com/loiter1EM/BrainX-prototype/internal/recall"
+	"github.com/loiter1EM/BrainX-prototype/internal/store"
 )
 
 func TestDocumentIsImmutableAndSearchableByTwoCharacterTerm(t *testing.T) {

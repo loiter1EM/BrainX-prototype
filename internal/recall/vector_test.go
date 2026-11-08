@@ -7,8 +7,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ksi512/BrainX-prototype/internal/recall"
-	"github.com/ksi512/BrainX-prototype/internal/store"
+	"github.com/loiter1EM/BrainX-prototype/internal/recall"
+	"github.com/loiter1EM/BrainX-prototype/internal/store"
 )
 
 // fakeEmbeddings 返回固定维度的伪向量：把每条文本哈希成一个三维方向，
